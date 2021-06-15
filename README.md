@@ -1,6 +1,8 @@
 # photo_album
 
-A photo album app using sensors.
+- Tap photo to enlarge
+- Double tap photo to get photo details
+- Long press photo to delete
 
 ## Getting Started
 
