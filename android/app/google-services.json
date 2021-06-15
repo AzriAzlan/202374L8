@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137294413549",
+    "project_id": "photoalbumapp-a9090",
+    "storage_bucket": "photoalbumapp-a9090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137294413549:android:df1d99bdcd801c22ff56e4",
+        "android_client_info": {
+          "package_name": "com.azriazlan.photo_album"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137294413549-gc61f5jq1e0jc3u0moepml8pco8k7g3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcbuxDtL1RjpnaDuYPqDqpUkra11JQtXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137294413549-gc61f5jq1e0jc3u0moepml8pco8k7g3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
